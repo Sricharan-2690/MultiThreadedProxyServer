@@ -208,7 +208,9 @@ http://localhost:<port>/https://www.cs.princeton.edu/
 * First visit → **CACHE MISS**
 * Second visit → **CACHE HIT** (super fast)
 
-![](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient/blob/main/pics/cache.png)
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/ccf7812c-0cdf-404b-a5eb-d843e5eac4c7" />
+
+<img width="1915" height="1020" alt="image" src="https://github.com/user-attachments/assets/3d9a99eb-2ca4-4faf-ac63-39bc27c6568e" />
 
 ---
 
